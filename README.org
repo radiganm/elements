@@ -1,4 +1,6 @@
-#+TITLE: Euclid's Elements Of Geometry - worked examples
+#+TITLE: Euclid's Elements Of Geometry
 #+AUTHOR: Mac Radigan
+
+[[Elements.pdf][Elements.pdf]]
 
  # *EOF* 
