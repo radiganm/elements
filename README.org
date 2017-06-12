@@ -1,0 +1,4 @@
+#+TITLE: Euclid's Elements Of Geometry - worked examples
+#+AUTHOR: Mac Radigan
+
+ # *EOF* 
