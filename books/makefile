@@ -16,11 +16,14 @@ link: generate
 
 generate:
 	$(MAKE) -C Book-01-Proposition-01
+	$(MAKE) -C Book-01-Proposition-02
 
 clobber: clean
 	$(MAKE) -C Book-01-Proposition-01 $@
+	$(MAKE) -C Book-01-Proposition-02 $@
 
 clean:
 	$(MAKE) -C Book-01-Proposition-01 $@
+	$(MAKE) -C Book-01-Proposition-02 $@
 
 ## *EOF*

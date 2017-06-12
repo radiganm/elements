@@ -1,5 +1,3 @@
-# Book 1
-
 ## Proposition 1
 
 To construct an equilateral triangle on a given finite straight-line.
