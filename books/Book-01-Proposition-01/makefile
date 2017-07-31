@@ -31,7 +31,7 @@ init:
 	mkdir -p $(figures)
 
 view:
-	@zathura -x a $(target).pdf 1>/dev/null 2>/dev/null
+	@zathura -x -a $(figures)/$(target)-1.pdf 1>/dev/null 2>/dev/null
 
 clobber: clean
 	-rm -f $(target).pdf

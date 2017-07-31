@@ -6,7 +6,7 @@
 
 .DEFAULT_GOAL := default
 
-target  := Book-01-Proposition-02
+target  := Book-09-Proposition-20
 figures := ./figures
 
 default: doc
