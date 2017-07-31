@@ -11,4 +11,9 @@
 
 {% include 'books/Book-06-Proposition-12/Book-06-Proposition-12.md' %}
 
+{# Book 9 #}
+# Book 9
+
+{% include 'books/Book-09-Proposition-20/Book-09-Proposition-20.md' %}
+
 {# *EOF* #}
