@@ -8,3 +8,4 @@ For let the straight-line $AB$ have been jointed from point $A$ to point $B$, an
 Therefore, since the point $B$ is the center (of the circle) $GCH$, $BC$ is equal to $BG$.  Again, since the point $D$ is the center of the circle $GKL$, $DL$ is equal to $DG$.  And within these, $DA$ is equal to $DB$.  Thus, the remainder $AL$ is equal to the remainder $BG$.  But $BC$ ws shown (to be) equal to $BG$.  Thus, $AL$ and $BC$ are each euqal to $BG$.  But things equal to the same thing are also equal to one another.  Thus, $AL$ is also equal to $BC$.
 
 Thus, the straight-line $AL$, equal to the given straight-line $BC$, has been placed at the point $A$.  (Which is) the very thing it was required to do.  $\square$
+
