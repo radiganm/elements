@@ -20,7 +20,6 @@ books: init
 	$(MAKE) -C books
 
 dox: books
-	which python3
 	rm -rf $(output)
 	env PYTHONPATH=./dox/library       \
 	  python3 ./dox/dox.py             \
