@@ -1,5 +1,6 @@
 #+TITLE: Euclid's Elements Of Geometry
 #+AUTHOR: Mac Radigan
+#+PDF: https://github.com/radiganm/elements/blob/master/Elements.pdf
 
 [[Elements.pdf][Elements.pdf]]
 
